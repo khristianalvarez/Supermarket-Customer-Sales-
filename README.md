@@ -1,6 +1,6 @@
-# 2Market-Customer-Sales-
+# Data Analytics for Business
 
-#### Topics Covered
+### Topics Covered
 - Core principles of the data analytics process
 - Analytical techniques using Excel, including data transformation and visualisation
 - Data manipulation and dashboard development using Tableau
@@ -8,8 +8,10 @@
 - Data analysis using SQL
 - Ethical frameworks in data analytics
 
+#### *Grade: Distinction*
 
-### Assignment Overview
+
+## Assignment Overview
 
 This project involved acting as a data analyst for 2Market, a global supermarket operating both online and in-store. The objective was to gain deeper insights into customer purchasing behaviour through the analysis of sales, marketing, and advertising data. Specifically, the analysis focused on:
 - Understanding customer demographics
@@ -17,11 +19,11 @@ This project involved acting as a data analyst for 2Market, a global supermarket
 - Determining top-performing products and assessing whether sales patterns vary across different demographic groups
 
   
-### Data Set
+## Data Set
 - marketing_data.csv *(Customer Information and Demographics / Sales Data / Marketing Data)*
 - ad_data.csv *(Customer Information / Successful Lead Conversion)*
 
-### Analytical Approach
+## Analytical Approach
 
 In order to address the business questions, a structured analytical workflow was employed using Excel and SQL before finalizing data to be visualized via Tableau. First, the customer demographic data was cleaned to handle missing values, fix formatting issues, and standardize entries as needed. Initial data analysis was then performed to add an Age column and aggregate the average age of customers belonging
 to each type of marital status and as well as their income brackets. This was particularly helpful in identifying and visualizing the relationships in the customer demographic to better understand the target audience.
@@ -31,7 +33,7 @@ on the current business scheme of 2Market. Consequently, SQL was also utilized t
 
 The Tableau dashboard was designed with clarity, interactivity, and stakeholder usability in consideration. It includes three main sections, with each aiming to provide analytical overview and answers to the business questions.
 
-### Key Insights and Trends
+## Key Insights and Trends
 
 - Married, high-income customers from Spain and Saudi Arabia are our most profitable segment. Targeting them with tailored campaigns could boost ROI significantly.
 
@@ -40,7 +42,7 @@ The Tableau dashboard was designed with clarity, interactivity, and stakeholder 
 - Product-wise, Liquor and Non-Vegetarian items are top performers, especially in high-income regions. Meanwhile, Commodities and Chocolates performed well but varied more with income.
 
 
-### Tableau Dashboard
+## Tableau Dashboard
 
 <img width="637" height="357" alt="1" src="https://github.com/user-attachments/assets/b62e4bce-1b97-4006-89d0-b2c996d60434" />
 
@@ -51,7 +53,7 @@ The Tableau dashboard was designed with clarity, interactivity, and stakeholder 
 <img width="672" height="540" alt="image" src="https://github.com/user-attachments/assets/9ef6a521-e341-4091-917a-2c95a2bf2b27" />
 
 
-### Strategic Recommendations
+## Strategic Recommendations
 
 - Prioritize Spain and Saudi Arabia in future campaigns
 - Focus marketing on married, high-income customers
