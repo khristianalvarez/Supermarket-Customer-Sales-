@@ -1,4 +1,4 @@
-# Data Analytics for Business
+
 
 ### Topics Covered
 - Core principles of the data analytics process
@@ -8,10 +8,9 @@
 - Data analysis using SQL
 - Ethical frameworks in data analytics
 
-#### *Grade: Distinction*
 
 
-## Assignment Overview
+## Overview
 
 This project involved acting as a data analyst for 2Market, a global supermarket operating both online and in-store. The objective was to gain deeper insights into customer purchasing behaviour through the analysis of sales, marketing, and advertising data. Specifically, the analysis focused on:
 - Understanding customer demographics
